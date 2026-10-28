@@ -186,9 +186,7 @@ The project demonstrates the application of distributed data processing and mach
 
 ## 👥 Contributors
 
-| Hoor-ul-ain Wajid 
-| Maheen Shahid | B22F0944DS025 |
+| Maheen Shahid maheenshahid0302@gmail.com
+| Hoor-ul-ain Wajid hoorwajid3@gmail.com
 
----
 
-⭐ **If you find this project useful, consider giving the repository a star!**
